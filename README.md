@@ -23,6 +23,7 @@ The dashboard supports interactive filtering by platform, category, and campaign
 
 ![alt text](Platform_&_Category.png)
 
+More details -> open in [Tableau](https://public.tableau.com/app/profile/irene.shi2071/viz/PaidMediaPerformance_17516814814580/PlatformCategory)!
 ## 🔍 Main Insights
 
 ### 1. **Platform Performance**
